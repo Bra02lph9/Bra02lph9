@@ -13,7 +13,6 @@
 
 ## 📫 Contact Me
 - Email: brahimremili041@gmail.com  
-- LinkedIn: [linkedin.com/in/ibrahimrmili](https://linkedin.com/in/ibrahimrmili)  
 
 ---
 
