@@ -4,70 +4,67 @@
 
 ## 🧠 About Me
 
-I'm a passionate self-taught developer and data enthusiast, always striving to learn and build. Currently focused on mastering **Python for Data Analysis**, and expanding my knowledge in **web development** and **tech fundamentals**.
+I’m a passionate self-taught developer and data enthusiast, continuously evolving by learning and building meaningful projects. Currently, I’m mastering **Python for Data Analysis**, expanding my skills in **web development**, and deepening my understanding of **tech fundamentals**.
 
-- 🎯 Learning Goals: Python (Pandas, NumPy), Data Analysis, GitHub, APIs
-- 📊 Interested in: Data Visualization, Interactive Dashboards
-- 🤖 Exploring concepts in AI and Cybersecurity (currently not working in them yet)
-- 🎂 Also trained in pâtisserie — creativity extends from code to cakes!
+I’m also a dedicated **web developer**, building modern web apps with JavaScript frameworks and backend technologies.
+
+Recently, I learned **Flask** and developed a **sentiment analysis app** for movie reviews — combining Python, natural language processing, and web development to analyze and classify user sentiments.
+
+- 🎯 Learning Focus: Python (Pandas, NumPy), Data Analysis, APIs, Git & GitHub  
+- 📊 Interests: Data Visualization, Interactive Dashboards, Clean Code Practices  
+- 🤖 Exploring: AI & Machine Learning (beginner), Cybersecurity fundamentals  
+- 🎂 Fun Fact: I also trained in pâtisserie — creativity flows from code to cakes!
 
 ---
 
 ## 🚀 Skills
 
-### 👨‍💻 Programming & Scripting
-- **Languages:** Python, JavaScript, PHP, Java, C, HTML, CSS
-- **Frameworks/Libraries:** ReactJS, Redux Toolkit, Node.js, Express.js, Laravel, Bootstrap
+### 👨‍💻 Programming & Scripting  
+- **Languages:** Python, JavaScript, PHP, Java, C, HTML, CSS  
+- **Frameworks/Libraries:** ReactJS, Redux Toolkit, Node.js, Express.js, Laravel, Bootstrap  
 
-### 🧮 Data & Analysis
-- **Core Tools:** Pandas, NumPy
-- **Visualization:** Seaborn, Matplotlib, Plotly, Bokeh
-- **Techniques:** Data Cleaning, Wrangling, Rolling Averages, Time Series Analysis, Interactive Charts
+### 🧮 Data & Analysis  
+- **Core Tools:** Pandas, NumPy  
+- **Visualization:** Seaborn, Matplotlib, Plotly, Bokeh  
+- **Techniques:** Data Cleaning & Wrangling, Rolling Averages, Time Series Analysis, Interactive Visualizations  
 
-### 🗄️ Databases
-- **Relational:** MySQL
-- **NoSQL:** MongoDB
+### 🗄️ Databases  
+- **Relational:** MySQL  
+- **NoSQL:** MongoDB  
 
-### 🛠️ Tools & DevOps
-- Git & GitHub  
+### 🛠️ Tools & DevOps  
+- Git & GitHub (including merge conflict resolution)  
 - RESTful APIs, Async/Await, Promises  
 - JWT Authentication  
-- Docker (basic usage)
-
-### 🌐 Other Interests
-- Machine Learning & Artificial Intelligence (Beginner, still exploring)
-- Cybersecurity (Early learner)
-- Mobile & Intelligent Systems  
-- Web development from frontend to backend
+- Docker (basic)  
 
 ---
 
 ## 🔭 Current Projects
 
-- 📦 **Mini CRM App** using React, Redux Toolkit, Node.js  
-- 📊 **Sales Data Analysis** with Python, Pandas & Plotly  
-- 📚 Practicing Python through real-world datasets and data cleaning  
-- 📁 Learning how to handle files in formats like CSV, JSON, and XML  
+- 📦 **Mini CRM App** — React + Redux Toolkit + Node.js backend  
+- 📊 **Sales Data Analysis** — Python, Pandas, Plotly dashboards  
+- 🐍 **Sentiment Analysis Web App** — built with Flask, Python NLP tools, analyzing movie review sentiments in real-time  
+- 📚 Hands-on Python with real-world datasets and data cleaning workflows  
+- 📁 File handling in CSV, JSON, XML formats — automating data pipelines  
 
 ---
 
 ## 📚 Learning & Practicing
 
-I'm actively practicing:
-- Git (pushing/pulling from GitHub, handling merge errors)
-- Python data pipelines
-- Interactive and animated visualizations (Plotly/Bokeh)
-- Clean coding with `.loc[]`, `.rolling()`, and `groupby()`
+- Git workflows: pushing, pulling, branching, and merge conflicts  
+- Python data pipelines & data manipulation (`.loc[]`, `.rolling()`, `groupby()`)  
+- Interactive visualizations using Plotly and Bokeh  
+- Writing clean, maintainable, and efficient code  
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect with Me
 
-- 📫 Email: **brahimremili041@gmail.com**
-- 💼 GitHub: [github.com/Bra02lph9](https://github.com/Bra02lph9)
-- 📂 Portfolio (soon): [Coming Soon!](#)
+- 📫 Email: **brahimremili041@gmail.com**  
+- 💼 GitHub: [github.com/Bra02lph9](https://github.com/Bra02lph9)  
+- 📂 Portfolio: Coming Soon!  
 
 ---
 
 > “Always learning, always growing — turning ideas into impactful projects.”
-
