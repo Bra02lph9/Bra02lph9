@@ -2,18 +2,27 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bra02lph9&color=blue)
 
+[![GitHub followers](https://img.shields.io/github/followers/Bra02lph9?label=Follow&style=social)](https://github.com/Bra02lph9)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-rmili/)  
+
+---
+
 ## 🧠 About Me
 
-I’m a passionate self-taught developer and data enthusiast, continuously evolving by learning and building meaningful projects. Currently, I’m mastering **Python for Data Analysis**, expanding my skills in **web development**, and deepening my understanding of **tech fundamentals**.
+I’m a **self-taught developer and data enthusiast** with a passion for building practical, meaningful projects. I continuously evolve by learning new technologies, experimenting with AI/ML, and developing full-stack applications.  
 
-I’m also a dedicated **web developer**, building modern web apps with JavaScript frameworks and backend technologies.
+I specialize in **Python for Data Analysis**, **web development** with React and Flask, and **modern software engineering practices**. Recently, I have:  
 
-Recently, I learned **Flask** and developed a **sentiment analysis app** for movie reviews — combining Python, natural language processing, and web development to analyze and classify user sentiments.
+- Built a **Flask-based sentiment analysis app** for movie reviews using NLP and ML, deployed on **Render**  
+- Developed a **React + MongoDB task manager app** (**Clean-Track**) with JWT authentication, bcrypt password hashing, interactive dashboards, and deployed on **Vercel**  
+- Integrated **Cloudinary** for media storage and optimization in projects  
+- Learned **Django basics** and full-stack development concepts  
+- Mastered **folder structuring, VS Code project management, and Git workflows** for professional coding  
 
-- 🎯 Learning Focus: Python (Pandas, NumPy), Data Analysis, APIs, Git & GitHub  
-- 📊 Interests: Data Visualization, Interactive Dashboards, Clean Code Practices  
-- 🤖 Exploring: AI & Machine Learning (beginner), Cybersecurity fundamentals  
-- 🎂 Fun Fact: I also trained in pâtisserie — creativity flows from code to cakes!
+🎯 **Learning Focus:** Python (Pandas, NumPy), Data Analysis, APIs, Git & GitHub  
+📊 **Interests:** Data Visualization, Interactive Dashboards, Clean Code Practices  
+🤖 **Exploring:** AI & Machine Learning (custom NLP models), Cybersecurity fundamentals  
+🎂 **Fun Fact:** I also trained in pâtisserie — creativity flows from code to cakes!  
 
 ---
 
@@ -21,40 +30,48 @@ Recently, I learned **Flask** and developed a **sentiment analysis app** for mov
 
 ### 👨‍💻 Programming & Scripting  
 - **Languages:** Python, JavaScript, PHP, Java, C, HTML, CSS  
-- **Frameworks/Libraries:** ReactJS, Redux Toolkit, Node.js, Express.js, Laravel, Bootstrap  
+- **Frameworks/Libraries:** ReactJS, Redux Toolkit, Node.js, Express.js, Laravel, Bootstrap, Flask, Tailwind CSS, Django  
 
 ### 🧮 Data & Analysis  
 - **Core Tools:** Pandas, NumPy  
 - **Visualization:** Seaborn, Matplotlib, Plotly, Bokeh  
-- **Techniques:** Data Cleaning & Wrangling, Rolling Averages, Time Series Analysis, Interactive Visualizations  
+- **Techniques:** Data Cleaning & Wrangling, Rolling Averages, Time Series Analysis, Interactive Visualizations, NLP  
 
 ### 🗄️ Databases  
 - **Relational:** MySQL  
 - **NoSQL:** MongoDB  
 
-### 🛠️ Tools & DevOps  
+### 🛠️ Tools, DevOps & Deployment  
 - Git & GitHub (including merge conflict resolution)  
 - RESTful APIs, Async/Await, Promises  
-- JWT Authentication  
+- JWT Authentication, bcrypt/bcryptjs password hashing  
 - Docker (basic)  
+- Deployment: **Render**, **Vercel**  
+- Cloud Services: **Cloudinary** for media storage & optimization  
+- VS Code extensions, folder structuring, and project organization  
 
 ---
 
 ## 🔭 Current Projects
 
-- 📦 **Mini CRM App** — React + Redux Toolkit + Node.js backend  
-- 📊 **Sales Data Analysis** — Python, Pandas, Plotly dashboards  
-- 🐍 **Sentiment Analysis Web App** — built with Flask, Python NLP tools, analyzing movie review sentiments in real-time  
+- 📦 **Clean-Track Task Manager App** — MERN stack, JWT auth, bcrypt password hashing, deployed on **Vercel**, Cloudinary for media storage  
+- 🐍 **Sentiment Analysis Web App** — Flask, Python NLP tools, real-time analysis of movie review sentiments, deployed on **Render**  
+- 📊 **Sales Data Analysis Dashboards** — Python, Pandas, Plotly & Bokeh for interactive dashboards  
+- 📁 **Mini CRM App** — React + Redux Toolkit + Node.js backend  
 - 📚 Hands-on Python with real-world datasets and data cleaning workflows  
-- 📁 File handling in CSV, JSON, XML formats — automating data pipelines  
+- 📂 File handling in CSV, JSON, XML formats — automating data pipelines  
 
 ---
 
 ## 📚 Learning & Practicing
 
-- Git workflows: pushing, pulling, branching, and merge conflicts  
-- Python data pipelines & data manipulation (`.loc[]`, `.rolling()`, `groupby()`)  
+- Git workflows: pushing, pulling, branching, and resolving merge conflicts  
+- Python data pipelines & manipulation (`.loc[]`, `.rolling()`, `groupby()`)  
 - Interactive visualizations using Plotly and Bokeh  
+- Flask web apps & RESTful API integration  
+- MERN stack app development (React + Node.js + MongoDB) with JWT security & bcrypt  
+- Django basics & exploring full-stack capabilities  
+- Deployment on Render and Vercel, integrating cloud storage with Cloudinary  
 - Writing clean, maintainable, and efficient code  
 
 ---
@@ -68,3 +85,4 @@ Recently, I learned **Flask** and developed a **sentiment analysis app** for mov
 ---
 
 > “Always learning, always growing — turning ideas into impactful projects.”
+
