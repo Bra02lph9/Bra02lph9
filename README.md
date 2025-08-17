@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bra02lph9&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/ibrahim-rmili-5a2135280)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-rmili-5a2135280)
+
 
 ---
 
