@@ -105,7 +105,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
 ## 📫 Contact
 <p align="center">
 Connect with me on  
-<a href="https://www.linkedin.com/in/yassine-slimani-389454253/" target="_blank">LinkedIn</a>
+<a href="www.linkedin.com/in/ibrahim-rmili-5a2135280" target="_blank">LinkedIn</a>
 </p>
 
 ---
