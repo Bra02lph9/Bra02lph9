@@ -111,5 +111,5 @@ Connect with me on
 ---
 
 <p align="center" style="color: #777;">
-Thanks for visiting my profile 🚀
+Thanks for visiting my profile 💚
 </p>
