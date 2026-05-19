@@ -17,28 +17,28 @@ My goal is to develop intelligent tools for medical and biological data analysis
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧬 DNA Analysis System
+### DNA Analysis System
 A project focused on biological sequence analysis using Python and bioinformatics tools to process and explore DNA data.
 
-### 🦠 Machine Learning for Malicious Cell Detection
+### Machine Learning for Malicious Cell Detection
 A machine learning model trained to help detect abnormal or harmful cells using medical-style datasets and classification techniques.
 
-### 🌍 Geolocation Web App
+### Geolocation Web App
 A full-stack application that works with location-based data and user interaction features.
 
-### ✅ Task Manager App
+### Task Manager App
 A React-based task management system with CRUD functionality and clean UI design.
 
-### 📊 ML & Data Science Projects
+### ML & Data Science Projects
 Small experiments and models using real datasets (Kaggle), focused on classification and data analysis.
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -46,7 +46,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -56,7 +56,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 🤖 AI / Data Science / Bioinformatics
+### AI / Data Science / Bioinformatics
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -68,7 +68,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
   <img src="https://img.shields.io/badge/Cython-00599C?style=for-the-badge"/>
 </p>
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -76,14 +76,14 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
-### 🛠 Tools & DevOps
+### Tools & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -92,7 +92,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 <p style="text-align:center;">
 - Machine Learning & AI for healthcare applications  
 - Bioinformatics data analysis  
@@ -102,7 +102,7 @@ Small experiments and models using real datasets (Kaggle), focused on classifica
 
 ---
 
-## 📫 Contact
+## Contact
 <p align="center">
 Connect with me on  
 <a href="https://www.linkedin.com/in/ibrahim-rmili-5a2135280/" target="_blank">LinkedIn</a>
