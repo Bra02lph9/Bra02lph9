@@ -271,14 +271,14 @@ Web applications built with modern frontend, backend, database, and API technolo
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=Bra02lph9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-alt="Ibrahim's GitHub statistics"
+src="https://github-readme-stats.vercel.app/api?username=Bra02lph9&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"
+alt="GitHub Stats"
 />
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bra02lph9&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-alt="Most used languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bra02lph9&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"
+alt="Top Languages"
 />
 
 </div>
