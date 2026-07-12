@@ -307,16 +307,16 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-<a href="www.linkedin.com/in/ibrahim-rmili-5a2135280">
+<a href="https://www.linkedin.com/in/ibrahim-rmili-5a2135280/">
   <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Rmili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:brahimremili041@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rmilbrahim983%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-brahimremili041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/Bra02lph9">
-  <img src="https://img.shields.io/badge/GitHub-rmilbrahim983-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Bra02lph9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
