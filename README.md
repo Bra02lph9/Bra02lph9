@@ -11,15 +11,15 @@ alt="Typing SVG"
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ibrahim-rmili-5a2135280/">
+<a href="www.linkedin.com/in/ibrahim-rmili-5a2135280">
   <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Rmili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:rmilbrahim983@gmail.com">
+<a href="mailto:brahimremili041@gmail.com">
   <img src="https://img.shields.io/badge/Email-rmilbrahim983%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rmilbrahim983&style=for-the-badge&color=2F80ED" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Bra02lph9&style=for-the-badge&color=2F80ED" alt="Profile views"/>
 
 </div>
 
@@ -295,7 +295,7 @@ alt="GitHub contribution streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rmilbrahim983&hide_border=true&theme=github-compact"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Bra02lph9&hide_border=true&theme=github-compact"
 alt="GitHub activity graph"
 />
 
@@ -307,15 +307,15 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ibrahim-rmili-5a2135280/">
+<a href="www.linkedin.com/in/ibrahim-rmili-5a2135280">
   <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Rmili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:rmilbrahim983@gmail.com">
+<a href="mailto:brahimremili041@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-rmilbrahim983%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/rmilbrahim983">
+<a href="https://github.com/Bra02lph9">
   <img src="https://img.shields.io/badge/GitHub-rmilbrahim983-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
