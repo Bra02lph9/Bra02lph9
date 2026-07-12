@@ -9,17 +9,17 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pau
 alt="Typing SVG"
 />
 
-<br/>
-
-<a href="www.linkedin.com/in/ibrahim-rmili-5a2135280">
+<a href="https://www.linkedin.com/in/ibrahim-rmili-5a2135280/">
   <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Rmili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:brahimremili041@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rmilbrahim983%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-brahimremili041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Bra02lph9&style=for-the-badge&color=2F80ED" alt="Profile views"/>
+<a href="https://github.com/Bra02lph9">
+  <img src="https://img.shields.io/badge/GitHub-Bra02lph9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
